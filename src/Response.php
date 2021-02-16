@@ -1,7 +1,8 @@
 <?php
 /**
- * Langley Framework
- * @package    langley-framework
+ * Langley's Plugin SDK for PHP
+ *
+ * @package    langley-sdk-php
  * @author     SuperSonic <supersonic@livemail.tw>
  * @link       https://line.starinc.xyz
  * @copyright  (c) 2021 Star Inc.

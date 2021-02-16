@@ -1,6 +1,6 @@
 {
-  "name": "starinc/langley-framework",
-  "description": "Langley's Plugin Framework",
+  "name": "starinc/langley-sdk-php",
+  "description": "Langley's Plugin SDK for PHP",
   "license": "MIT",
   "authors": [
     {
